@@ -11,6 +11,10 @@
 https://zhuanlan.zhihu.com/p/39784226 <br>
 http://www.52nlp.cn/tag/gensim
 
+### 交叉领域相关 
+https://zhuanlan.zhihu.com/p/52824004 
+知乎上介绍的文章: -   **EMCDR**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzIzNzA2N119
+eyJoaXN0b3J5IjpbLTE2NzY0ODYyNDQsLTgyNzIzNzA2N119
 -->
