@@ -14,7 +14,8 @@ http://www.52nlp.cn/tag/gensim
 ### 交叉领域相关 
 https://zhuanlan.zhihu.com/p/52824004 
 知乎上介绍的文章: -   **EMCDR**
+> 本文提出了一种跨域推荐的嵌入式映射框架，称为EMCDR。提出的EMCDR框架从两个方面区别于现有的跨域推荐模型。首先，在每个域中利用隐因子模型来进行Embedding学习，以此来学习每个域中实体的特定特征。第二，在域间利用Mapping技术来补充不同域的数据稀疏。其中涉及的Mapping技术主要是线性映射和多层感知机映射（MLP），值得注意的是，由于MLP可以捕捉非线性因素以及出色的拟合能力，性能要由于线性映射。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzY0ODYyNDQsLTgyNzIzNzA2N119
+eyJoaXN0b3J5IjpbLTEwMjk5MTAxNDcsLTgyNzIzNzA2N119
 -->
